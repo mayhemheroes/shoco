@@ -1,0 +1,5 @@
+project: shoco
+target: shoco
+
+cmds:
+  - cmd: /shoco compress @@ /dev/null
